@@ -1,0 +1,5 @@
+﻿bin/
+obj/
+/.vs/xlstopdfexporter/v17
+/.vs/xlstopdfexporter
+/xlstopdfexporter.csproj.user
